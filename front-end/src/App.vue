@@ -1,5 +1,9 @@
-<script setup></script>
+<script setup>
+import MyHello from '@/components/MyHello.vue'
+</script>
 
-<template></template>
+<template>
+  <MyHello />
+</template>
 
 <style scoped></style>
